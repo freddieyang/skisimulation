@@ -1,0 +1,11 @@
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.exe
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.deps.json
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.runtimeconfig.json
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.runtimeconfig.dev.json
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.dll
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\bin\Debug\netcoreapp3.0\ProtocolsTest.pdb
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\obj\Debug\netcoreapp3.0\ProtocolsTest.csprojAssemblyReference.cache
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\obj\Debug\netcoreapp3.0\ProtocolsTest.AssemblyInfoInputs.cache
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\obj\Debug\netcoreapp3.0\ProtocolsTest.AssemblyInfo.cs
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\obj\Debug\netcoreapp3.0\ProtocolsTest.dll
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\ProtocolsTest\obj\Debug\netcoreapp3.0\ProtocolsTest.pdb
