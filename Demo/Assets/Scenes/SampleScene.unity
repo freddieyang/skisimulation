@@ -326,6 +326,12 @@ MonoBehaviour:
   m_Script: {fileID: 11500000, guid: 6f2ad2bf0b221ab45a9ac5d5f22b083a, type: 3}
   m_Name: 
   m_EditorClassIdentifier: 
+  ReceiveMsg: 
+  ErrorMsg: 
+  SendMsg: 
+  portName: COM4
+  baudRate: 115200
+  arrPorts: []
 --- !u!65 &980336217
 BoxCollider:
   m_ObjectHideFlags: 0

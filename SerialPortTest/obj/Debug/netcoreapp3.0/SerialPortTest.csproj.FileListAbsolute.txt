@@ -1,0 +1,4 @@
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\SerialPortTest\bin\Debug\netcoreapp3.0\SerialPortTest.exe
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\SerialPortTest\obj\Debug\netcoreapp3.0\SerialPortTest.csprojAssemblyReference.cache
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\SerialPortTest\obj\Debug\netcoreapp3.0\SerialPortTest.AssemblyInfoInputs.cache
+C:\Users\freddie\OneDrive\文件\GitHub\skisimulation\SerialPortTest\obj\Debug\netcoreapp3.0\SerialPortTest.AssemblyInfo.cs
