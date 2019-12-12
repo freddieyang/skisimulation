@@ -33,11 +33,12 @@ public class push_data : MonoBehaviour
     void FixedUpdate()
     {
         Vector3 position = tf.localPosition;
+       
         Vector3 euler_angles = tf.localRotation.eulerAngles;
         set_protocal(position, euler_angles);
         
         display();
-        //WriteData(dataSend);
+        WriteData(dataSend);
     }
 
     void display()
@@ -50,10 +51,10 @@ public class push_data : MonoBehaviour
     {
         Debug.Log(position + ":" + euler_angles);
         byte[] x = BitConverter.GetBytes(position.x);
-        byte[] y = BitConverter.GetBytes(position.y);
-        byte[] z = BitConverter.GetBytes(position.z);
-        byte[] alpha = BitConverter.GetBytes(euler_angles.z);
-        byte[] beta = BitConverter.GetBytes(euler_angles.x);
+        byte[] y = BitConverter.GetBytes(position.z);
+        byte[] z = BitConverter.GetBytes(position.y);
+        byte[] alpha = BitConverter.GetBytes(euler_angles.x);
+        byte[] beta = BitConverter.GetBytes(euler_angles.z);
         byte[] gamma = BitConverter.GetBytes(euler_angles.y);
         dataSend[0] = 0xFB;
         dataSend[1] = 0xFD;
